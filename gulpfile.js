@@ -72,7 +72,6 @@ function page () {
     .pipe(browserSync.stream())
 }
 
-
 // function img(){
 //     setTimeout(()=>{
 //         child_process.exec('rm ./assets/image/*.*');
